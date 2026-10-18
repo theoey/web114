@@ -5,7 +5,7 @@
 alert(`Welcome to Forbidden Greens, a haunted forest! Help bring light to the kingdom!`);
 
 //step 5
-const charName = prompt(`"What is your name, visitor? `, ["Ironstorm"]);
+const charName = prompt(`"What is your name, visitor? `, ["Wanderer"]);
 
 //step 6
 const petName = prompt(`What is your pet name? `, ["Rex"])
