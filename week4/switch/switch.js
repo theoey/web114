@@ -17,6 +17,7 @@ switch(favMonth.toLowerCase())
    case "april":
    case "may":
         confirm("Spring is nice with everything blooming.");
+        console.log(`correct answer`);
         break;
     case "june": 
     case "july": 
@@ -35,4 +36,5 @@ switch(favMonth.toLowerCase())
         break;
     default:
         confirm("Other months are interesting too");
+        console.log(`Unexpected answer`);
 }
